@@ -20,18 +20,18 @@ Additionally, this mod has default settings which override the stock defaults.  
     ANTI_ALIASING                        8 (8x)           2 (2x)       Anti-Aliasing
     TEXTURE_QUALITY                      0 (Full res)     1 (Half res) Texture Quality
 
-    Toolbar icon: ![Toolbar icon](https://i.imgur.com/gZlXd98.png)
-    SDS Window: ![SDS Window](https://i.imgur.com/kpZet74.png)
+Toolbar icon: ![Toolbar icon](https://i.imgur.com/gZlXd98.png)
+SDS Window: ![SDS Window](https://i.imgur.com/kpZet74.png)
 
-    Buttons
+Buttons
 
-        Apply                     Applies the settings, keeping the window open
-        Accept                    Applies the settings and closes the window
-        Reset to default          Clears local settings, and loads the mod defaults
-        Cancel                    Cancels any changes and closes the window
+    Apply                     Applies the settings, keeping the window open
+    Accept                    Applies the settings and closes the window
+    Reset to default          Clears local settings, and loads the mod defaults
+    Cancel                    Cancels any changes and closes the window
 
-        Save for current game     Saves the current settings for the current game only, also applies the changes to the current game
-        Clear local settings &    Clears all local settings and resets the settings to the current global settings
-          load global settings
+    Save for current game     Saves the current settings for the current game only, also applies the changes to the current game
+    Clear local settings &    Clears all local settings and resets the settings to the current global settings
+    load global settings
 
-        Note:  The Reset to default is immediate, canceling will not revert the changes
+    Note:  The Reset to default is immediate, canceling will not revert the changes
