@@ -42,6 +42,7 @@
     <Compile Include="InstallChecker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ScenarioData.cs" />
+    <Compile Include="Settings.cs" />
     <Compile Include="StockDefaultSettings.cs" />
     <Compile Include="ToolbarRegistration.cs" />
   </ItemGroup>
