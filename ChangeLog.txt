@@ -1,4 +1,7 @@
 ﻿Changelog
 
+0.0.1.1
+	Fixed error in version file
+
 0.0.1
 	Initial release
