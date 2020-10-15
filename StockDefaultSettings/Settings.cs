@@ -59,4 +59,4 @@ namespace Stock_Default_Settings
         }
     }
 }
-}
+

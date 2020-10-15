@@ -27,7 +27,7 @@ SDS Window: ![SDS Window](https://i.imgur.com/kpZet74.png)
 Buttons
 
     Apply                     Applies the settings, keeping the window open
-    Accept                    Applies the settings and closes the window
+    Accept                    Ap9plies the settings and closes the window
     Reset to default          Clears local settings, and loads the mod defaults
     Cancel                    Cancels any changes and closes the window
 
