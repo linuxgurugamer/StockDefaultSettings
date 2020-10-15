@@ -20,8 +20,8 @@ Additionally, this mod has default settings which override the stock defaults.  
     ANTI_ALIASING                        8 (8x)           2 (2x)       Anti-Aliasing
     TEXTURE_QUALITY                      0 (Full res)     1 (Half res) Texture Quality
 
-    Toolbar icon: [Toolbar icon](https://i.imgur.com/gZlXd98.png)
-    SDS Window: [SDS Window](https://i.imgur.com/kpZet74.png)
+    Toolbar icon: ![Toolbar icon](https://i.imgur.com/gZlXd98.png)
+    SDS Window: ![SDS Window](https://i.imgur.com/kpZet74.png)
 
     Buttons
 
