@@ -1,6 +1,4 @@
-﻿using System.IO;
-using KSP_Log;
-using Steamworks;
+﻿using KSP_Log;
 
 namespace Stock_Default_Settings
 {

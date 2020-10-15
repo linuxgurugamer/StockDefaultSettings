@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using KSP.Localization;
 using KSP.UI.Screens;
 using ToolbarControl_NS;
@@ -56,7 +55,7 @@ namespace Stock_Default_Settings
             {
                 if (!useAltSkin)
                     GUI.skin = HighLogic.Skin;
-                sdsRect = GUILayout.Window(this.GetInstanceID() + 1, sdsRect, new GUI.WindowFunction(Window), "Stock Default Settings", new GUILayoutOption[0]);
+                sdsRect =ClickThruBlocker.GUILayoutWindow(this.GetInstanceID() + 1, sdsRect, new GUI.WindowFunction(Window), "Stock Default Settings", new GUILayoutOption[0]);
             }
         }
 
