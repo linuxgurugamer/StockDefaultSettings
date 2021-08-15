@@ -1,5 +1,9 @@
 ﻿Changelog
 
+0.0.1.2
+	Added AssemblyFileVersion
+	Updated version file for 1.12
+
 0.0.1.1
 	Fixed error in version file
 
